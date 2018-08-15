@@ -46,7 +46,7 @@ File | Purpose
 **app/components/ContactsForm.vue** | Allows creating and editing contacts.  Every contact is a child of an event.  
 
 ## Contributors
-Carrie Carter
-Karen Painter
-Kevin Grayson
+Carrie Carter,
+Karen Painter,
+Kevin Grayson,
 [Sarah Rehmer](https://github.com/Rehmsy)
