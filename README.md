@@ -45,4 +45,8 @@ File | Purpose
 **app/components/ContactsList.vue** | Displays all of a user's contacts in a list.  Enables deletes.
 **app/components/ContactsForm.vue** | Allows creating and editing contacts.  Every contact is a child of an event.  
 
-
+## Contributors
+Carrie Carter
+Karen Painter
+Kevin Grayson
+[Sarah Rehmer](https://github.com/Rehmsy)
